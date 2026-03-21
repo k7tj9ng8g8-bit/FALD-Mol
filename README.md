@@ -22,7 +22,7 @@ controllability, and generalization capability of the proposed framework, unders
 for practical applications in drug discovery and molecular design. 
 
 
-## Train CPL-Diff
+## Train FALD-Diff
 Create conda environment using requirements.yaml.
 The training code for FALD-Diff is available at train.py.
 The validation code is provided in t2m.py.
