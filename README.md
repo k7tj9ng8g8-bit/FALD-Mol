@@ -27,7 +27,3 @@ Create conda environment using requirements.yaml.
 The training code for FALD-Diff is available at train.py.
 The validation code is provided in t2m.py.
 
-##  Acknowledgement
-This work is developed based on the open-source project [Ldmol](https://github.com/jinhojsk515/LDMol).
-We also draw inspiration and ideas from [SPMM](https://github.com/jinhojsk515/SPMM) and [MTSSMol](https://github.com/zhaoqi106/MTSSMol) for our framework design.
-We sincerely thank all the original authors for their excellent contributions to the community.
