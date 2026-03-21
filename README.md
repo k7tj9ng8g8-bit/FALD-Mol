@@ -25,5 +25,5 @@ for practical applications in drug discovery and molecular design.
 ## Train FALD-Diff
 Create conda environment using requirements.yaml.
 The training code for FALD-Diff is available at train.py.
-The validation code is provided in t2m.py.
+The validation code is provided in in_tm.py.
 
